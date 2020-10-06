@@ -21,7 +21,7 @@ You may also specify a directory (absolute path) or filename (without extension)
 Example:
 
 ```bash
-dart bin/main.dart down https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg -f mount_everest -d "C:/Users/user/Pictures"
+dart bin/main.dart down https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg -f mount_everest -d "C:\Users\user\Pictures"
 ```
 
 ## Known limitations and issues
